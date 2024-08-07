@@ -1,0 +1,18 @@
+{
+    "name": "pedro/feedback",
+    "autoload": {
+        "psr-4": {
+            "Pedro\\Feedback\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro Pimentel",
+            "email": "pedroamazonet@gmail.com"
+        }
+    ],
+    "require": {
+        "leafs/leaf": "^3.4",
+        "catfan/medoo": "^2.1"
+    }
+}
